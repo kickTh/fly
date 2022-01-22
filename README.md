@@ -11,6 +11,6 @@ if game.PlaceId == 662417684 then -- LUCKY-BLOCKS-Battlegrounds
 end
 
 if game.PlaceId == 286090429 then -- Arsenal
-	loadstring(game:HttpGet('', true))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/kickTh/fly/main/Arsenal.lua.txt', true))()
 end
 
