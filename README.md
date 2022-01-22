@@ -14,3 +14,7 @@ if game.PlaceId == 286090429 then -- Arsenal
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/kickTh/fly/main/Arsenal.lua%20(1).txt', true))()
 end
 
+
+if game.PlaceId == 621129760 then -- KAT
+	loadstring(game:HttpGet('', true))()
+end
