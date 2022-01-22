@@ -16,5 +16,5 @@ end
 
 
 if game.PlaceId == 621129760 then -- KAT
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/kickTh/map/main/KAT!.lua.txt', true))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/kickTh/fly/main/KATG.lua.txt', true))()
 end
