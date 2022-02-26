@@ -1,0 +1,6 @@
+
+getgenv().SpawnDelay = 3 
+getgenv().Hight = 30 -- Shooting height
+getgenv().Behind = 10 -- Shooting behind
+getgenv().Time_to_Hop = 150 -- Recommended 150
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Strikehubv2z/strikehubv2/main/autobounty.lua"))() 
